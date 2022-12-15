@@ -1,6 +1,6 @@
-🖐 Hi there! My name is Alonso, and I'm a 🤓 backend developer with experience in building web applications using modern technologies like Express.js, TypeScript, Django, and Python.
+Hi there! 🖐 My name is Alonso, and I'm a 🤓 backend developer with experience in building web applications using modern technologies like Express.js, TypeScript, Django, and Python.
 
-I have a 🔥 passion for developing scalable and efficient backend systems, and I enjoy working with these technologies to create high-quality software.
+I have a passion 🔥 for developing scalable and efficient backend systems, and I enjoy working with these technologies to create high-quality software.
 
 In my current role as a backend developer, I have used Express.js to build RESTful APIs, TypeScript to add type safety to my code, Django to build full-stack web applications, and Python to develop scripts and automate tasks.
 
