@@ -2,7 +2,7 @@
 
 ## Hi there! 🖐 My name is Alonso
 
-💻 I am a backend developer who is absolutely in love with code and the magic of creating efficient, reliable systems. I am always on the lookout for new technologies and approaches to improve my skills, and I am proficient in a variety of programming languages like Python, Java, and C++.
+💻 I am a backend developer who is absolutely in love with code and the magic of creating efficient, reliable systems. I am always on the lookout for new technologies and approaches to improve my skills, and I am proficient in a variety of programming languages like Python or Javascript.
 
 🤓 In my work, I am not only focused on delivering functional code, but also on creating maintainable and scalable solutions that will stand the test of time. I am so excited to learn and grow as a developer, and I would be thrilled to collaborate with other like-minded individuals on challenging and exciting projects.
 
