@@ -10,7 +10,7 @@
  
 </td><td valign="top" width="25%">
 
-## 🖥️ Fav Tech Stack
+## Tech Stack
 
 - Docker
 - PostgreSQL
